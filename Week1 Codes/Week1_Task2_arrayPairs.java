@@ -1,4 +1,4 @@
-public class arrayPairs {
+public class Week1_Task2_arrayPairs {
     public static void printAllPairs(int[] arr) {
         int n = arr.length;
         // Outer loop selects the first element

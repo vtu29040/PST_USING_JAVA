@@ -1,4 +1,4 @@
-public class binarySearchIterative {
+public class Week1_Task3_binarySearchIterative {
     // Returns index of target if it is present, else returns -1
     public static int binarySearch(int[] arr, int target) {
         int low = 0;

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lastDigits {
+public class Week1_Task7_lastDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class kthSmallestSorting {
+public class Week1_Task6_kthSmallestSorting {
     public static int findKthSmallest(int[] arr, int k) {
         // Edge case handling
         if (arr == null || k > arr.length || k <= 0) {

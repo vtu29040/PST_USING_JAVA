@@ -1,7 +1,7 @@
 
 import java.util.Arrays;
 
-public class maxElementFinder {
+public class Week1_Task8_maxElementFinder {
 
     public static int findMaximum(int[] arr) {
         if (arr == null || arr.length == 0) {

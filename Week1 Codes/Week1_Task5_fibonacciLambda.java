@@ -1,6 +1,6 @@
 import java.util.stream.Stream;
 
-public class fibonacciLambda {
+public class Week1_Task5_fibonacciLambda {
     public static void main(String[] args) {
         int n = 10; // Find the 10th Fibonacci number
         

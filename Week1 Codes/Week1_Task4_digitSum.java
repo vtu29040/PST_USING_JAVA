@@ -1,4 +1,4 @@
-public class digitSum {
+public class Week1_Task4_digitSum {
     public static void main(String[] args) {
         int number = 123456;
 

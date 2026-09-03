@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class arrayIndex {
+public class Week1_Task1_arrayIndex {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
